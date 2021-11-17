@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "335cc0fa-0167-ec5c-e74c-5d6e6d32df8d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Architecture Design Fundamentals I: Nano-Machines",
+  "course_description": "This is the second undergraduate architecture design studio, which introduces design logic and skills that enable design thinking, representation, and development. Through the lens of nano-scale machines, technologies, and phenomena, students are asked to explore techniques for describing form, space, and architecture. Exercises encourage various connotations of the \"machine\" and challenge students to translate conceptual strategies into more integrated design propositions through both digital and analog means.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.112",
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Projects with Examples",
+    "Design Assignments with Examples",
+    "Media Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
